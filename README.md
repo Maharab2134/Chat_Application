@@ -51,7 +51,7 @@ Before running this project, ensure you have the following installed:
 ### **Steps to Install**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Chat.git
+   git clone https://github.com/Maharab2134/Chat_Application.git
 2. Open the project in Android Studio.
 3. Configure Firebase:
 	* Download the google-services.json file from your Firebase Console.
