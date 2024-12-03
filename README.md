@@ -62,6 +62,7 @@ Before running this project, ensure you have the following installed:
 4. Build and run the app:
 	* Connect your Android device or emulator.
     	* Click Run to install the app.
+    	
 🖼️ Screenshots
 
 🤝 Contributing
@@ -69,11 +70,11 @@ Before running this project, ensure you have the following installed:
 
    1. Fork the repository.
    2. Create a new branch:
-   	* git checkout -b feature-name
+   * git checkout -b feature-name
    3. Commit your changes:
-	* git commit -m "Add new feature"
+   * git commit -m "Add new feature"
    4. Push the branch:
-   	* git push origin feature-name
+   * git push origin feature-name
    5. Open a Pull Request.
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
