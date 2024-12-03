@@ -66,17 +66,25 @@ Before running this project, ensure you have the following installed:
 🖼️ Screenshots
 
 🤝 Contributing
+
 	We welcome contributions to enhance this project! To contribute:
 
    1. Fork the repository.
+   
    2. Create a new branch:
    * git checkout -b feature-name
+   
    3. Commit your changes:
    * git commit -m "Add new feature"
+   
    4. Push the branch:
    * git push origin feature-name
+   
    5. Open a Pull Request.
+   
+   
 📜 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 📧 Contact
@@ -86,6 +94,7 @@ For queries or support, reach out to:
     * Name: Maharab Hosen
     * Email: maharab442@gmail.com
     * GitHub: Maharab2134
+    
 🌟 Acknowledgements
 
     Firebase for providing backend services.
